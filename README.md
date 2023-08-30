@@ -54,5 +54,3 @@ day: number;
 fetch('https://slovenske-pranostiky-api.herokuapp.com/7/15').then(...);
 ```
 
-## Referencie
-* [Presné počasie | presnepocasie.sk](https://presnepocasie.sk/)
